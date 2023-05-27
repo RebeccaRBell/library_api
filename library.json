@@ -1,0 +1,82 @@
+[
+        {
+                "title" : "Pride and Prejudice",
+                "synopsis" : "Set in early 19th-century England, 'Pride and Prejudice' follows the lively Elizabeth Bennet as she navigates the societal expectations, manners, and romantic entanglements of her time. Through witty dialogue and sharp social commentary, Austen explores themes of love, marriage, and class."
+        },
+               {
+                "title" : "To Kill a Mockingbird",
+                "synopsis" : "Set in the 1930s in a racially divided Alabama town, this poignant novel tells the story of Scout Finch, a young girl, and her brother Jem. Through Scout's innocent perspective, Lee addresses themes of racial injustice, morality, and the loss of innocence."
+        },
+               {
+                "title" : "1984",
+                "synopsis" : "In a totalitarian society ruled by the omnipresent Party, Winston Smith rebels against the oppressive regime by engaging in a forbidden love affair and questioning the government's manipulation of truth. Orwell's dystopian vision serves as a chilling warning about the dangers of authoritarianism."
+        },
+               {
+                "title" : "Moby-Dick",
+                "synopsis" : "This epic tale follows the obsessive Captain Ahab as he leads his crew on a harrowing quest to seek revenge against the elusive white whale, Moby Dick. Melville delves into themes of obsession, fate, and the complexities of the human spirit."
+        },
+        {
+                "title": "Jane Eyre",
+                "synopsis": "Orphaned as a child, Jane Eyre becomes a governess at Thornfield Hall, where she falls in love with the mysterious and brooding Mr. Rochester. Brontë's novel explores themes of love, independence, and the struggle for personal identity against societal expectations."
+        },
+            {
+                "title": "The Great Gatsby",
+                "synopsis": "Set in the Roaring Twenties, 'The Great Gatsby' paints a vivid portrait of Jay Gatsby's extravagant parties and his unrequited love for the beautiful Daisy Buchanan. Fitzgerald's masterpiece explores the illusion of the American Dream, wealth, and the emptiness of the Jazz Age."
+        },
+            {
+                "title": "The Catcher in the Rye",
+                "synopsis": "Narrated by the disillusioned teenager Holden Caulfield, the novel follows his journey through New York City after being expelled from school. Through Holden's cynical yet introspective narrative, Salinger explores themes of teenage angst, alienation, and the loss of innocence."
+        },
+            {
+                "title": "Wuthering Heights",
+                "synopsis": "Brontë's dark and tumultuous tale unfolds on the desolate moors of Yorkshire, England. The passionate love story between Heathcliff and Catherine Earnshaw spans generations, intertwining themes of love, revenge, and the destructive power of obsession."
+        },
+         {
+                "title": "Frankenstein",
+                "synopsis": "Shelley's iconic novel tells the story of Victor Frankenstein, a young scientist who creates a grotesque creature through his ambitious experiments. Exploring themes of creation, morality, and the pursuit of knowledge, 'Frankenstein' delves into the consequences of playing god."
+        },
+         {
+                "title": "The Adventures of Huckleberry Finn",
+                "synopsis": "Twain's novel follows the mischievous Huck Finn and his runaway slave companion, Jim, as they embark on a rafting adventure down the Mississippi River. Through Huck's perspective, the novel explores themes of racism, freedom, and the moral growth of a young boy."
+        },
+         {
+                "title": "Alice's Adventures in Wonderland",
+                "synopsis": "Carroll's whimsical tale follows young Alice as she falls down a rabbit hole into a fantastical realm filled with peculiar creatures and nonsensical situations. Through Alice's surreal encounters, the novel explores themes of identity, logic, and the nature of reality."
+        },
+         {
+                "title": "The Picture of Dorian Gray",
+                "synopsis": "Wilde's novel follows the young and handsome Dorian Gray, who remains eternally youthful while his portrait ages and bears the scars of his immoral actions. Through Dorian's pursuit of pleasure and beauty, the novel explores themes of morality, decadence, and the consequences of vanity."
+        },
+         {
+                "title": "The Silent Patient",
+                "synopsis": "Alicia Berenson, a famous artist, is convicted of murdering her husband and has since remained silent. Psychotherapist Theo Faber is determined to unravel the truth behind her mysterious silence and the events leading up to the murder."
+        },
+         {
+                "title": "Where the Crawdads Sing",
+                "synopsis": "Set in the marshlands of North Carolina, the novel follows Kya Clark, a young woman who grows up in isolation, navigating love, loss, and the investigation into a local murder. It explores themes of resilience, nature, and the human connection to the natural world."
+        },
+         {
+                "title": "Circe",
+                "synopsis": "Drawing from Greek mythology, 'Circe' tells the story of the enchantress Circe, daughter of the sun god Helios. Exiled to a remote island, Circe hones her powers and encounters famous figures from mythology. The novel explores themes of feminism, power, and self-discovery."
+        },
+         {
+                "title": "Educated",
+                "synopsis": "In this memoir, Westover recounts her upbringing in a strict and abusive household in rural Idaho, where she was denied a formal education. Determined to seek knowledge, she eventually escapes and goes on to earn a Ph.D., examining themes of education, resilience, and the power of self-transformation."
+        },
+         {
+                "title": "Normal People",
+                "synopsis": "Set in Ireland, 'Normal People' follows the complex relationship between Connell and Marianne as they navigate their way through adolescence and adulthood. The novel explores themes of love, class, and the challenges of communication in a deeply affecting and intimate manner."
+        },
+         {
+                "title": "The Dutch House",
+                "synopsis": "Set over five decades, the novel revolves around the lives of siblings Danny and Maeve, who are exiled from their childhood home, the Dutch House, by their stepmother. Patchett explores themes of family, memory, and the enduring power of love."
+        },
+         {
+                "title": "The Seven Husbands of Evenlyn Hugo",
+                "synopsis": "Evelyn Hugo, a legendary Hollywood actress, recounts her life story to an unknown journalist, revealing the truth about her seven marriages and the price she paid for fame and success. The novel explores themes of love, ambition, identity, and the sacrifices made in pursuit of a dream."
+        },
+         {
+                "title": "The Nightingale",
+                "synopsis": "Set in occupied France during World War II, the novel tells the story of two sisters, Vianne and Isabelle, and their experiences during the war. The book explores themes of courage, sacrifice, resilience, and the indomitable strength of women in the face of adversity."
+        }
+]
